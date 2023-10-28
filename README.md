@@ -5,3 +5,4 @@
 # 574C1_LinReg - first part linear regression
 
 # 574C1_LogReg - second part logitstive regression
+    ##the Learning rate and iterations can be adjusted on # suggested hyperparameters cell
